@@ -11,6 +11,6 @@
 
 ## 广播界面
 
-点击界面上的按钮，发送一条动态注册的广播，弹出窗口，强制下线
+点击界面上的按钮，发送一条动态注册的广播，弹出窗口，强制下线,退回登录界面重新登录。
 
 <img src="https://github.com/xiaolanlaia/broadcastbestpractice/blob/25cb0b7fa08fb9d704ffa80363a966916ea66454/screenshots/Broadcast.png" width="150" height="300"/>           <img src="https://github.com/xiaolanlaia/broadcastbestpractice/blob/25cb0b7fa08fb9d704ffa80363a966916ea66454/screenshots/offline.png" width="150" height="300"/>
