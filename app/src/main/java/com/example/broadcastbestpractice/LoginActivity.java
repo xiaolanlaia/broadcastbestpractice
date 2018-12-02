@@ -31,9 +31,8 @@ public class LoginActivity extends BaseActivity {
                     Intent intent = new Intent(LoginActivity.this,MainActivity.class);
                     startActivity(intent);
                     finish();
-
                 }else {
-                    Toast.makeText(LoginActivity.this,"account or password is invalid",Toast.LENGTH_SHORT);
+                    Toast.makeText(LoginActivity.this,"account or password is invalid",Toast.LENGTH_SHORT).show();
                 }
             }
         });
