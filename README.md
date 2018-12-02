@@ -7,4 +7,4 @@
 ## 模拟登录界面
 在登录界面，初始账号和密码为 admin 和 123456,当用户输入正确的账号密码，则进入广播界面，如输入错误，则弹窗提示
 
-<img src="https://github.com/xiaolanlaia/broadcastbestpractice/blob/25cb0b7fa08fb9d704ffa80363a966916ea66454/screenshots/Login.png" width="150" height="150"
+<img src="https://github.com/xiaolanlaia/broadcastbestpractice/blob/25cb0b7fa08fb9d704ffa80363a966916ea66454/screenshots/Login.png" width="150" height="150"/>
